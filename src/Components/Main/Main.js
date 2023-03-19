@@ -7,7 +7,7 @@ import Navbar from '../Navbar/Navbar';
 
 export default function Main() {
   return (
-    <div className='flex flex-col h-full w-screen justify-between bg-slate-800 font-sans'>
+    <div className='flex flex-col h-full w-full justify-between bg-slate-800 font-sans'>
         <Header/>
         <hr/>
         <Navbar/>
